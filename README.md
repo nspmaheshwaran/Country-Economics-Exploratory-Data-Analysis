@@ -96,7 +96,7 @@ data
 sql
 report
 screenshots
-video/
+video
 ```
 
 ---
